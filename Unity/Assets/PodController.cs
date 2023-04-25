@@ -9,7 +9,6 @@ public class PodController : MonoBehaviour
     public FollowCamera followCamera;
     public FPSController fpsController;
     // public CreatureController cc;
-    private bool InPod;
 
 
     private void Update()
